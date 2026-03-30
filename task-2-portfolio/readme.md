@@ -14,4 +14,4 @@
 
 ### Stack Overflow: The Knowledge Base  
 **[Stack Overflow](https://stackoverflow.com)** is a massive **Q\&A community** dedicated to programming and technical troubleshooting. It is used to *find solutions* to specific coding challenges and to *contribute* back to the developer ecosystem. By answering questions, users build a **"reputation"** score that signals deep expertise and a willingness to mentor others *within the tech community.*  
-![Loading...](Stack-Overflow-Profile.jpeg)
+![Loading...](stack-overflow.png)

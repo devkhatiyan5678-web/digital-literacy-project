@@ -5,8 +5,8 @@
 
 ### My Info  
 **Name:** Dev Khatiyan  
-**Reg No.:** 25BAI10157 
-**Program:** BTech CSE(ai and ml) 
+**Reg No.:** 25BAI10157  
+**Program:** BTech CSE(ai and ml)  
 **School:** SCAI  
 
 ## Project Overview

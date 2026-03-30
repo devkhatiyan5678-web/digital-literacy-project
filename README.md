@@ -4,10 +4,10 @@
 ---
 
 ### My Info  
-**Name:** Kanav Luthra  
-**Reg No.:** 25BCE10417  
-**Program:** BTech CSE Core  
-**School:** SCOPE  
+**Name:** Dev Khatiyan  
+**Reg No.:** 25BAI10157 
+**Program:** BTech CSE(ai and ml) 
+**School:** SCAI  
 
 ## Project Overview
 

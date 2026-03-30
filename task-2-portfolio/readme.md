@@ -2,7 +2,7 @@
 
 ### GitHub: The Digital Portfolio  
 **[GitHub](https://github.com)** is the industry standard for *version control* and *collaborative software development*. It is primarily used to host code repositories, track changes using Git, and showcase open-source contributions. For developers, it serves as a **"living resume"** where recruiters can verify technical skills by reviewing actual *code, project architecture, and consistency in coding habits.*  
-![Loading...](GitHub-Profile.png)
+![Loading...](gitHub.png)
 
 ---
 
